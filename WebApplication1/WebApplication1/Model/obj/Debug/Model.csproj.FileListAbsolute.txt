@@ -1,0 +1,12 @@
+E:\HocHe\DoAnPM1\cuuho\WebApplication1\WebApplication1\Model\bin\Debug\Model.dll.config
+E:\HocHe\DoAnPM1\cuuho\WebApplication1\WebApplication1\Model\bin\Debug\Model.dll
+E:\HocHe\DoAnPM1\cuuho\WebApplication1\WebApplication1\Model\bin\Debug\Model.pdb
+E:\HocHe\DoAnPM1\cuuho\WebApplication1\WebApplication1\Model\bin\Debug\EntityFramework.dll
+E:\HocHe\DoAnPM1\cuuho\WebApplication1\WebApplication1\Model\bin\Debug\EntityFramework.SqlServer.dll
+E:\HocHe\DoAnPM1\cuuho\WebApplication1\WebApplication1\Model\bin\Debug\EntityFramework.xml
+E:\HocHe\DoAnPM1\cuuho\WebApplication1\WebApplication1\Model\bin\Debug\EntityFramework.SqlServer.xml
+E:\HocHe\DoAnPM1\cuuho\WebApplication1\WebApplication1\Model\obj\Debug\Model.csprojAssemblyReference.cache
+E:\HocHe\DoAnPM1\cuuho\WebApplication1\WebApplication1\Model\obj\Debug\Model.csproj.CoreCompileInputs.cache
+E:\HocHe\DoAnPM1\cuuho\WebApplication1\WebApplication1\Model\obj\Debug\Model.csproj.CopyComplete
+E:\HocHe\DoAnPM1\cuuho\WebApplication1\WebApplication1\Model\obj\Debug\Model.dll
+E:\HocHe\DoAnPM1\cuuho\WebApplication1\WebApplication1\Model\obj\Debug\Model.pdb
